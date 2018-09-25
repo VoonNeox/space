@@ -46,23 +46,29 @@ li {
 	border-collapse: collapse;
 	display: block;
 	font-size: 30px;
-	margin-top: -9%;
+	margin-top: -11%;
 }
 
 .ofLink {
-	text-decoration: none;
 	color: white;
+}
+
+.ofLink:hover {
+	background-color: #A9A9A9;
 }
 
 .custom {
 	border-collapse: collapse;
 	font-size: 30px;
 	margin-left: 40%;
-	margin-top: -9%;
+	margin-top: -11%;
+}
+
+.cusLink:hover {
+	background-color: #A9A9A9;
 }
 
 .cusLink {
-	text-decoration: none;
 	color: white;
 }
 
@@ -79,4 +85,8 @@ li {
 	margin-top: -35%;
 	margin-bottom: 15%;
 	font-size: 25px;
+}
+
+a {
+	text-decoration: none;
 }
