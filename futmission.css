@@ -42,6 +42,7 @@ tr:nth-child(even) {
 th, td {
 	text-align: left;
 	padding: 17px;
+	font-family: "Times New Roman", Times, serif;
 }
 
 form {
@@ -57,6 +58,7 @@ legend {
 }
 
 footer {
+	display: inline-block;
 	background-color: #2E2E2E;
 	padding: 25px;
 }
@@ -70,22 +72,33 @@ li {
 	border-collapse: collapse;
 	display: block;
 	font-size: 30px;
-	margin-top: -9%;
+	margin-top: -14%;
 }
 
 .ofLink {
-	text-decoration: none;
 	color: white;
+}
+
+.ofLink:hover {
+	background-color: #A9A9A9;
 }
 
 .custom {
 	border-collapse: collapse;
 	font-size: 30px;
 	margin-left: 40%;
-	margin-top: -9%;
+	margin-top: -12%;
+}
+
+.cusLink:hover {
+	background-color: #A9A9A9;
 }
 
 .cusLink {
+	color: white;
+}
+
+a {
 	text-decoration: none;
 	color: white;
 }
