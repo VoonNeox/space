@@ -1,3 +1,7 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
 .pages {
 	text-align: center;
 }
@@ -71,7 +75,7 @@ li {
 	border-collapse: collapse;
 	display: block;
 	font-size: 30px;
-	margin-top: -14%;
+	margin-top: -13%;
 }
 
 .ofLink {
@@ -102,3 +106,32 @@ a {
 	color: white;
 }
 
+.Ale {
+	display: block;
+	margin-top: 1%;
+	background-color: black;
+	text-align: center;
+}
+
+.menu {
+	display: inline-block;
+	color: white;
+	border-collapse: collapse;
+	font-size: 30px;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
+.menu:hover {
+	background-color: #A9A9A9;
+}
+
+.news {
+	display: inline-block;
+	color: white;
+	border-collapse: collapse;
+	font-size: 30px;
+	padding-left: 2%;
+	padding-right: 2%;
+	background-color: #A9A9A9;
+}

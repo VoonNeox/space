@@ -1,3 +1,7 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
 .pages {
 	text-align: center;
 }
@@ -46,7 +50,7 @@ li {
 	border-collapse: collapse;
 	display: block;
 	font-size: 30px;
-	margin-top: -11%;
+	margin-top: -13%;
 }
 
 .ofLink {
@@ -61,7 +65,7 @@ li {
 	border-collapse: collapse;
 	font-size: 30px;
 	margin-left: 40%;
-	margin-top: -11%;
+	margin-top: -12%;
 }
 
 .cusLink:hover {
@@ -85,8 +89,13 @@ li {
 	margin-top: -35%;
 	margin-bottom: 15%;
 	font-size: 25px;
+	overflow: auto;
 }
 
 a {
 	text-decoration: none;
+}
+
+body {
+	font-family: 'PT Sans', sans-serif;
 }

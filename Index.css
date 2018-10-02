@@ -1,10 +1,13 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
 .Car {
 	margin: auto;
 	width: 60%;
-	display: inline-block;
-	position: relative;
-	margin-top: 1%;
-	margin-left: 40%;
+	display: block;
+	margin-top: 4%;
+
 }
 
 .pages {
@@ -57,7 +60,7 @@ li {
 	border-collapse: collapse;
 	display: block;
 	font-size: 30px;
-	margin-top: -14%;
+	margin-top: -13%;
 }
 
 .ofLink {
@@ -100,5 +103,32 @@ div {
 }
 
 .Ale {
-	margin-top: -20%;
+	display: block;
+	margin-top: -37%;
+	margin-bottom: 35%;
+	background-color: black;
+	text-align: center;
+}
+
+.menu {
+	display: inline-block;
+	color: white;
+	border-collapse: collapse;
+	font-size: 30px;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
+.menu:hover {
+	background-color: #A9A9A9;
+}
+
+.news {
+	display: inline-block;
+	color: white;
+	border-collapse: collapse;
+	font-size: 30px;
+	padding-left: 2%;
+	padding-right: 2%;
+	background-color: #A9A9A9;
 }
