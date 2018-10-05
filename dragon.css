@@ -23,7 +23,11 @@ body {
 header {
 	background-color: black;
 	padding: 25px;
+	margin-left: -0.5%;
+	margin-right: -0.5%;
+	margin-top: -1%;
 }
+
 form {
 	border-collapse: collapse;
 	display: block;
@@ -39,6 +43,9 @@ legend {
 footer {
 	background-color: #2E2E2E;
 	padding: 25px;
+	margin-bottom: -1%;
+	margin-left: -0.5%;
+	margin-right: -0.5%;
 }
 
 li {

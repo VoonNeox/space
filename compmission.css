@@ -23,6 +23,9 @@ body {
 header {
 	background-color: black;
 	padding: 25px;
+	margin-left: -0.5%;
+	margin-right: -0.5%;
+	margin-top: -1%;
 }
 
 table {
@@ -64,7 +67,11 @@ legend {
 footer {
 	background-color: #2E2E2E;
 	padding: 25px;
+	margin-bottom: -1%;
+	margin-left: -0.5%;
+	margin-right: -0.5%;
 }
+
 
 li {
 	margin-right: 80%;
@@ -111,6 +118,8 @@ a {
 	margin-top: 1%;
 	background-color: black;
 	text-align: center;
+	margin-right: -0.5%;
+	margin-left: -0.5%;
 }
 
 .menu {
