@@ -1,0 +1,146 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.pages {
+	text-align: center;
+}
+
+.Space {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 30px;
+	padding-left: 15px;
+}
+
+.Spacex {
+	padding-right: 25%;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 40px;
+}
+
+header {
+	background-color: black;
+	padding: 25px;
+	margin-left: -0.5%;
+	margin-right: -0.5%;
+	margin-top: -1%;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	margin-bottom: 2%;
+}
+
+th {
+	border-bottom: 2px solid black;
+}
+
+td {
+	border-bottom: 1px solid #ddd;
+}
+
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+th, td {
+	text-align: left;
+	padding: 17px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+form {
+	border-collapse: collapse;
+	display: block;
+	color: white;
+	width: 10%;
+	margin-left: 80%;
+}
+
+legend {
+	text-align: center;
+}
+
+footer {
+	background-color: #2E2E2E;
+	padding: 25px;
+	margin-bottom: -1%;
+	margin-left: -0.5%;
+	margin-right: -0.5%;
+}
+
+
+li {
+	margin-right: 80%;
+	color: white;
+}
+
+.official {
+	border-collapse: collapse;
+	display: block;
+	font-size: 30px;
+	margin-top: -13%;
+}
+
+.ofLink {
+	color: white;
+}
+
+.ofLink:hover {
+	background-color: #A9A9A9;
+}
+
+.custom {
+	border-collapse: collapse;
+	font-size: 30px;
+	margin-left: 40%;
+	margin-top: -12%;
+}
+
+.cusLink:hover {
+	background-color: #A9A9A9;
+}
+
+.cusLink {
+	color: white;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.Ale {
+	display: block;
+	margin-top: 1%;
+	background-color: black;
+	text-align: center;
+	margin-right: -0.5%;
+	margin-left: -0.5%;
+}
+
+.menu {
+	display: inline-block;
+	color: white;
+	border-collapse: collapse;
+	font-size: 30px;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
+.menu:hover {
+	background-color: #A9A9A9;
+}
+
+.news {
+	display: inline-block;
+	color: white;
+	border-collapse: collapse;
+	font-size: 30px;
+	padding-left: 2%;
+	padding-right: 2%;
+	background-color: #A9A9A9;
+}

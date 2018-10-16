@@ -1,0 +1,106 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.pages {
+	text-align: center;
+}
+
+.Space {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 30px;
+	padding-left: 15px;
+}
+
+.Spacex {
+	padding-right: 25%;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 40px;
+}
+
+
+header {
+	background-color: black;
+	padding: 25px;
+	margin-left: -0.5%;
+	margin-right: -0.5%;
+	margin-top: -1%;
+}
+
+form {
+	border-collapse: collapse;
+	display: block;
+	color: white;
+	width: 10%;
+	margin-left: 80%;
+}
+
+legend {
+	text-align: center;
+}
+
+footer {
+	background-color: #2E2E2E;
+	padding: 25px;
+	margin-bottom: -1%;
+	margin-left: -0.5%;
+	margin-right: -0.5%;
+}
+
+li {
+	margin-right: 80%;
+	color: white;
+}
+
+.official {
+	border-collapse: collapse;
+	display: block;
+	font-size: 30px;
+	margin-top: -13%;
+}
+
+.ofLink {
+	color: white;
+}
+
+.ofLink:hover {
+	background-color: #A9A9A9;
+}
+
+.custom {
+	border-collapse: collapse;
+	font-size: 30px;
+	margin-left: 40%;
+	margin-top: -12%;
+}
+
+.cusLink:hover {
+	background-color: #A9A9A9;
+}
+
+.cusLink {
+	color: white;
+}
+
+a {
+	text-decoration: none;
+}
+
+.fh {
+	border-collapse: collapse;
+	margin: auto;
+	border: 20px solid #FFFFFF;
+	width: 65%;
+}
+
+.info {
+	border-collapse: collapse;
+	display: block;
+	margin-left: 70%;
+	margin-top: -40%;
+	margin-bottom: 27%;
+	font-size: 25px;
+	overflow: auto;
+}
